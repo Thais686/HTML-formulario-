@@ -16,4 +16,4 @@
 
    2) Pesquise e explique a tag fieldset. No contexto mostrado na ultima aula, onde ele se tornaria relevante?
 
-A tag HTML fieldset é encontrada dentro da tag <form> e é usada para agrupar elementos, assim como <label> relacionados em um formulário HTML. Use uma tag <legend> para criar uma legenda para o fieldset. Essa tag também é comumente chamada de elemento fieldset. No contexto da ultima aula essa tag se faria relevante mo agrupamento das tags label, usado para agrupar rótulos e controles relacionados na tag <form>.
+A tag HTML fieldset é encontrada dentro da tag form e é usada para agrupar elementos, assim como <label> relacionados em um formulário HTML. Use uma tag legend para criar uma legenda para o fieldset. Essa tag também é comumente chamada de elemento fieldset. No contexto da ultima aula essa tag se faria relevante mo agrupamento das tags label, usado para agrupar rótulos e controles relacionados na tag form.
